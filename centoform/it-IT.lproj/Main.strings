@@ -1,0 +1,30 @@
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "2He-oJ-rBY"; */
+"2He-oJ-rBY.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUINavigationItem"; title = "Elenco Corsi"; ObjectID = "63A-bM-Uyz"; */
+"63A-bM-Uyz.title" = "Elenco Corsi";
+
+/* Class = "IBUILabel"; text = "Titolo"; ObjectID = "A4I-M1-N2k"; */
+"A4I-M1-N2k.text" = "Titolo";
+
+/* Class = "IBUILabel"; text = "Data"; ObjectID = "KHC-ga-w9Q"; */
+"KHC-ga-w9Q.text" = "Data";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "KPl-gH-3Ur"; */
+"KPl-gH-3Ur.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUILabel"; text = "Titolo"; ObjectID = "QqA-dt-HpZ"; */
+"QqA-dt-HpZ.text" = "Titolo";
+
+/* Class = "IBUILabel"; text = "Durata"; ObjectID = "cPh-dg-2N8"; */
+"cPh-dg-2N8.text" = "Durata";
+
+/* Class = "IBUILabel"; text = "Partecipanti"; ObjectID = "eLL-UM-sNT"; */
+"eLL-UM-sNT.text" = "Partecipanti";
+
+/* Class = "IBUINavigationItem"; title = "Corsi"; ObjectID = "pl6-xL-7Ce"; */
+"pl6-xL-7Ce.title" = "Corsi";
+
+/* Class = "IBUIButton"; normalTitle = "Corsi in Partenza"; ObjectID = "wCq-9l-m00"; */
+"wCq-9l-m00.normalTitle" = "Corsi in Partenza";

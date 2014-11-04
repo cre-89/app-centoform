@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" alpha="0.89999999999999991" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="catalogo" translatesAutoresizingMaskIntoConstraints="NO" id="cgP-Fn-yug">
+                    <rect key="frame" x="0.0" y="0.0" width="480" height="183"/>
+                    <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="cgP-Fn-yug" secondAttribute="height" multiplier="328:283" id="JuA-3Y-xqN"/>
+                        <constraint firstAttribute="width" secondItem="cgP-Fn-yug" secondAttribute="height" multiplier="160:61" id="ikq-fF-Ex4"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="JuA-3Y-xqN"/>
+                        </mask>
+                    </variation>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="loghi" translatesAutoresizingMaskIntoConstraints="NO" id="IBv-tO-vAs">
+                    <rect key="frame" x="4" y="389" width="476" height="91"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="IBv-tO-vAs" secondAttribute="height" multiplier="68:13" id="VPF-wi-1aY"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="IBv-tO-vAs" secondAttribute="bottom" id="3l1-X8-sqA"/>
+                <constraint firstItem="cgP-Fn-yug" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="E2y-2y-BzK"/>
+                <constraint firstItem="cgP-Fn-yug" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="60" id="OZ3-wc-Ki0"/>
+                <constraint firstItem="cgP-Fn-yug" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="PDE-Qa-QaO"/>
+                <constraint firstAttribute="trailing" secondItem="cgP-Fn-yug" secondAttribute="trailing" id="cFC-7I-5e3"/>
+                <constraint firstAttribute="trailing" secondItem="IBv-tO-vAs" secondAttribute="trailing" id="jzS-ch-LeJ"/>
+                <constraint firstItem="IBv-tO-vAs" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="4" id="k9I-t8-3Uu"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="OZ3-wc-Ki0"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="603" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="catalogo" width="323" height="106"/>
+        <image name="loghi" width="193" height="43"/>
+    </resources>
+</document>
